@@ -58,7 +58,7 @@ Pricing strategies based on:
 - Spring Security
 - Spring Data JPA
 - Hibernate
-- MySQL
+- PostgreSql
 - Maven
 - JWT
 
